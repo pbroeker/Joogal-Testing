@@ -1,0 +1,540 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signup Welcome snapshot Roles 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#1d1e20",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": "20%",
+        "position": "absolute",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "whitesmoke",
+          "fontFamily": "PoiretOne_400Regular",
+          "fontSize": 30,
+          "marginBottom": 30,
+          "marginLeft": "10%",
+        }
+      }
+    >
+      What's your role?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 300,
+        "marginTop": "55%",
+      }
+    }
+  >
+    <RCTScrollView
+      data={
+        Array [
+          "Musician",
+          "Film Scoring",
+          "Rapper",
+          "Singer",
+          "Filmmaker",
+          "Beatmaker",
+          "Dancer",
+          "Model",
+          "Painter",
+          "Band",
+        ]
+      }
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Musician
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Film Scoring
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Rapper
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Singer
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Filmmaker
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Beatmaker
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Dancer
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Model
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Painter
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View>
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "transparent",
+                  "borderColor": "grey",
+                  "borderRadius": 50,
+                  "borderWidth": 2,
+                  "opacity": 1,
+                  "padding": 5,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "whitesmoke",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 20,
+                  }
+                }
+              >
+                Band
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "marginTop": 70,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "teal",
+          "borderRadius": 50,
+          "marginRight": 30,
+          "opacity": 1,
+          "padding": 10,
+          "width": 56,
+        }
+      }
+      testID="rolesContinueButton"
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 30,
+            "fontWeight": "600",
+          }
+        }
+      >
+        ➤
+      </Text>
+    </View>
+  </View>
+</View>
+`;

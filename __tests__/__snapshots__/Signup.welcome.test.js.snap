@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signup Welcome snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#1d1e20",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": "20%",
+        "position": "absolute",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "whitesmoke",
+          "fontFamily": "PoiretOne_400Regular",
+          "fontSize": 30,
+          "marginBottom": 30,
+          "marginLeft": "10%",
+          "width": "52%",
+        }
+      }
+    >
+      Welcome to Joogal.
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "whitesmoke",
+          "fontFamily": "PoiretOne_400Regular",
+          "fontSize": 30,
+          "marginBottom": 30,
+          "marginLeft": "10%",
+          "width": "52%",
+        }
+      }
+    >
+      Let's find your next collaboration!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "height": 370,
+          "marginTop": 261,
+          "width": 375,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": 392,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "teal",
+          "opacity": 1,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+      testID="welcomeContinueButton"
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 20,
+            "fontWeight": "600",
+          }
+        }
+      >
+        Continue
+      </Text>
+    </View>
+  </View>
+</View>
+`;

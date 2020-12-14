@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signup Name snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#1d1e20",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": "20%",
+        "position": "absolute",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "whitesmoke",
+          "fontFamily": "PoiretOne_400Regular",
+          "fontSize": 30,
+          "marginBottom": 30,
+          "marginLeft": "10%",
+          "width": "53%",
+        }
+      }
+    >
+      What's your name?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": "45%",
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      autoCompleteType="name"
+      autoFocus={true}
+      onChangeText={[Function]}
+      placeholder="First name*"
+      placeholderTextColor="grey"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "grey",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "color": "whitesmoke",
+          "marginVertical": "1%",
+          "padding": 14,
+          "width": "80%",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <TextInput
+      allowFontScaling={true}
+      onChangeText={[Function]}
+      placeholder="Last name"
+      placeholderTextColor="grey"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "grey",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "color": "whitesmoke",
+          "marginVertical": "1%",
+          "padding": 14,
+          "width": "80%",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "marginTop": 50,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "teal",
+          "borderRadius": 50,
+          "marginRight": 30,
+          "opacity": 1,
+          "padding": 10,
+          "width": 56,
+        }
+      }
+      testID="nameContinueButton"
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 30,
+            "fontWeight": "600",
+          }
+        }
+      >
+        ➤
+      </Text>
+    </View>
+  </View>
+</View>
+`;

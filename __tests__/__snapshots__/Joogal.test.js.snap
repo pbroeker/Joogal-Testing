@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "#1d1e20",
+      "height": "100%",
+    }
+  }
+  testID="Joogal"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#1d1e20",
+          "color": "#f7f7f7",
+          "fontFamily": "PoiretOne_400Regular",
+          "fontSize": 24,
+          "letterSpacing": 8,
+          "marginTop": 251,
+        },
+        Object {
+          "marginTop": 30,
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+  >
+    Collaborations
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "borderColor": "#f7f7f7",
+          "borderWidth": 0.5,
+          "marginTop": 298,
+          "position": "absolute",
+          "width": "95%",
+        },
+        Object {
+          "marginTop": 100,
+        },
+      ]
+    }
+  />
+  <RCTScrollView
+    ItemSeparatorComponent={[Function]}
+    data={
+      Array [
+        Object {
+          "about": "American film director",
+          "artistname": "Kubrick",
+          "email": "kubrick@artists.com",
+          "firstname": "Stanley",
+          "id": 1,
+          "lastname": "Kubrick",
+          "likes": Array [
+            Object {
+              "target": 3,
+            },
+          ],
+          "profilepic": null,
+          "roles": Array [
+            "filmmaker",
+          ],
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    refreshControl={
+      <RefreshControlMock
+        onRefresh={[Function]}
+        refreshing={false}
+        tintColor="whitesmoke"
+      />
+    }
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    style={
+      Object {
+        "marginTop": 24,
+      }
+    }
+    testID="Joogal-FlatList"
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <RCTRefreshControl />
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#f7f7f7",
+                  "borderColor": "#f7f7f7",
+                  "borderRadius": 100,
+                  "borderWidth": 1,
+                  "height": 100,
+                  "marginLeft": 10,
+                  "marginVertical": 5,
+                  "width": 100,
+                },
+                Object {},
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#f7f7f7",
+                  "fontFamily": "PoiretOne_400Regular",
+                  "fontSize": 16,
+                  "letterSpacing": 5,
+                  "marginLeft": 10,
+                  "textTransform": "uppercase",
+                  "top": 10,
+                }
+              }
+            >
+              Stanley
+               
+              Kubrick
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#f7f7f7",
+                  "fontFamily": "PoiretOne_400Regular",
+                  "fontSize": 16,
+                  "letterSpacing": 5,
+                  "marginLeft": 10,
+                  "textTransform": "uppercase",
+                  "top": 10,
+                }
+              }
+            >
+              Kubrick
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#f7f7f7",
+                    "fontFamily": "PoiretOne_400Regular",
+                    "fontSize": 14,
+                    "letterSpacing": 1,
+                    "marginLeft": 10,
+                    "top": 18,
+                    "width": "55%",
+                  },
+                  Object {
+                    "color": "lightgreen",
+                    "fontSize": 19,
+                    "marginLeft": 50,
+                    "width": 400,
+                  },
+                ]
+              }
+            >
+              kubrick@artists.com
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
