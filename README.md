@@ -1,5 +1,5 @@
 # Joogal-Testing
-Find creative collaborators in the format of a modern dating app.
+The application is written by [Tobias Feltes](https://github.com/tobi110289) and further information is found under [Joogal](https://github.com/tobi110289/Joogal-public). Therefore the code can't be publicly shared here.
 
 <p align="center">
 <img src="./assets/joogal.gif" alt="logo-gif" style="width: 100%;" />
@@ -10,8 +10,6 @@ Find creative collaborators in the format of a modern dating app.
 
  ## About
  Joogal is a React-Native-App to connect creative artists from different fields to collaborate with each other. 
-
- The app is written by [Tobias Feltes](https://github.com/tobi110289) and further information is found under [Joogal](https://github.com/tobi110289/Joogal-public).
 
 
  My role as collaborator was mainly the testing and debugging of this React Native app.
